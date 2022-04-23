@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhoel Flores</h1>
 <h3 align="center">a Student of Computer Engineering at UAGRM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhoelFloresS&label=Profile%20views&color=0e75b6&style=flat" alt="jsoliz064" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhoelFloresS&label=Profile%20views&color=0e75b6&style=flat" alt="JhoelFloresS" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JhoelFloresS" alt="JhoelFloresS" /></a> </p>
 
