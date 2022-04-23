@@ -17,9 +17,7 @@
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
 <a href="https://www.rstudio.com" target="_blank" rel="noreferrer"> <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/> </a>
 </p>
+
 <p align = "left" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoelFloresS&theme=dark&hide_border=false&date_format=M+j%5B%2C+Y%5D&properties=background"/>
-</p>
-<p align = "left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoelFloresS"/>
 </p>
