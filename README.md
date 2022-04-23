@@ -14,3 +14,6 @@
 <p align = "left" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoelFloresS&layout=compact"/>
 </p>
+<p align = "left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoelFloresS"/>
+</p>
